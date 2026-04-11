@@ -2,7 +2,7 @@
 
 I'm Dr. Ryan Eckert, a Postdoctoral Fellow at **FAU Harbor Branch Oceanographic Institute**.
 
----
+***
 
 ### 🪸 About Me
 
@@ -22,20 +22,20 @@ Before my PhD, I spent eight years as a research specialist at **NOAA's Flower G
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![SLURM](https://img.shields.io/badge/HPC%2FSLURM-darkblue?style=flat-square)
 
-**Genomics:** 2bRAD · ANGSD · NGSadmix · NGStools · BayeScan · SAMtools <br>
+**Genomics:** · 2bRAD · ANGSD · NGSadmix · NGStools · BayeScan · SAMtools ·<br>
 
 ---
 
 ### 🤿 Certifications
 
-AAUS Scientific Diver · TDI CCR/Trimix (to 100m) · 
-PADI Trimix Gas Blender · DAN O₂/FA · 
+· AAUS Scientific Diver · TDI CCR/Trimix (to 100m) · 
+· PADI Trimix Gas Blender · DAN O₂/FA · 
 
 ---
 
 ### 📬 Get in Touch
 
-- 🌐 [Ryan J Eckert](https://www.ryanjeckert.weebly.com/)
-- 🪸 [Mesophotic.org](https://mesophotic.org)
-- 📄 [CV](https://raw.githubusercontent.com/RyanEckert/Eckert_CV/master/Ryan_J_Eckert_curriculum_vitae.pdf)
+· 🌐 [Ryan J Eckert](https://www.ryanjeckert.weebly.com/)<br>
+· 🪸 [Mesophotic.org](https://mesophotic.org)<br>
+· 📄 [CV](https://raw.githubusercontent.com/RyanEckert/Eckert_CV/master/Ryan_J_Eckert_curriculum_vitae.pdf)<br>
   
